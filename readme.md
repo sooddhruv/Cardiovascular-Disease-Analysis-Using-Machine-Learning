@@ -47,7 +47,3 @@ cardiovascular-disease-analysis/
 - Automate data pipelines for continuous updates and monitoring.
 
 ---
-
-📌 **Author**: [Your Name]  
-🗓️ **Last Updated**: April 2025  
-🧑‍🎓 **Graduate Student, NYU – MS in Information Systems**
